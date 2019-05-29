@@ -1,0 +1,591 @@
+1558541739308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.sGMeogVAuDvl"
+1558541745810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558541745907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558541745907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558541775153	Marionette	INFO	Listening on port 62631
+1558541775825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558541902568	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.uKfnEyJebIaV"
+1558541906509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558541906509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558541906509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558541910181	Marionette	INFO	Listening on port 63722
+1558541910213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558541928659	Marionette	INFO	Stopped listening on port 63722
+1558541933724	Marionette	INFO	Stopped listening on port 62631
+1558541975028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.xX1c7Eswwm0x"
+1558541980014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558541980015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558541980015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558541982909	Marionette	INFO	Listening on port 64152
+1558541983047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558542122224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.kMADcPtZvg0n"
+1558542122945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558542122945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558542122945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558542125221	Marionette	INFO	Listening on port 64885
+1558542125318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558542193344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.hVKVIasr9vmr"
+1558542199210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558542199233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558542199233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558542203202	Marionette	INFO	Listening on port 65269
+1558542203302	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558543676674	Marionette	INFO	Stopped listening on port 65269
+1558543678618	Marionette	INFO	Stopped listening on port 64885
+1558543682954	Marionette	INFO	Stopped listening on port 64152
+1558545867579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.Vuou3m0bwiM8"
+1558545869265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558545869265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558545869265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558545872157	Marionette	INFO	Listening on port 50101
+1558545872210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558545877462	Marionette	INFO	Stopped listening on port 50101
+1558545982673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.CLegmhX9QG3K"
+1558545984436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558545984437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558545984437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558545986970	Marionette	INFO	Listening on port 50714
+1558545986981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558546074572	Marionette	INFO	Stopped listening on port 50714
+1558546080755	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.UPdPKVhoKGnP"
+1558546082584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558546082585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558546082585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558546085159	Marionette	INFO	Listening on port 51192
+1558546085231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558546149416	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.1gJglzJDXPiJ"
+1558546151376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558546151377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558546151377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558546154301	Marionette	INFO	Listening on port 51553
+1558546154359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558546312270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.MukS6H147Zsu"
+1558546316599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558546316600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558546316600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558546321278	Marionette	INFO	Listening on port 52336
+1558546321361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558546342222	Marionette	INFO	Stopped listening on port 51192
+1558546352808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.EkwlgsgCfZYX"
+1558546354613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558546354614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558546354614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558546358366	Marionette	INFO	Listening on port 52627
+1558546359402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558546482471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.BG7IXkOCFzvL"
+1558546485812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558546485813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558546485813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558546489725	Marionette	INFO	Listening on port 53310
+1558546489830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558547324353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.3LoCGXMKHH3d"
+1558547327629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558547327629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558547327630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558547331872	Marionette	INFO	Listening on port 57600
+1558547331974	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558547441179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.GXJPwcXNvqjK"
+1558547443851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558547443852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558547443852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558547448611	Marionette	INFO	Listening on port 58254
+1558547448706	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558547814146	Marionette	INFO	Stopped listening on port 58254
+1558547818486	Marionette	INFO	Stopped listening on port 57600
+1558547820988	Marionette	INFO	Stopped listening on port 53310
+1558547823430	Marionette	INFO	Stopped listening on port 52627
+1558547827298	Marionette	INFO	Stopped listening on port 52336
+1558547829741	Marionette	INFO	Stopped listening on port 51553
+1558548244784	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.Gob3tCjWcEpI"
+1558548247483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558548247484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558548247484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558548250885	Marionette	INFO	Listening on port 61945
+1558548250980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558548261628	Marionette	INFO	Stopped listening on port 61945
+1558548288573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.Gs4XaYr8e16C"
+1558548289436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558548289436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558548289436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558548291705	Marionette	INFO	Listening on port 62341
+1558548291738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558548305175	Marionette	INFO	Stopped listening on port 62341
+1558548354113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.DnMCiKG2kkRJ"
+1558548354816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558548354817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558548354817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558548357011	Marionette	INFO	Listening on port 62786
+1558548357112	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 48376, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48376, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48376, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48376, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48376, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1558548480375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.mGlb1hRw0VLm"
+1558548481059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558548481060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558548481060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558548483378	Marionette	INFO	Listening on port 63439
+1558548483448	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 48457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1558548582286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.zVAjFSmRYakM"
+1558548582948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558548582949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558548582949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558548585773	Marionette	INFO	Listening on port 63926
+1558548585874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558548661320	Marionette	INFO	Stopped listening on port 63439
+1558548662631	Marionette	INFO	Stopped listening on port 62786
+JavaScript error: https://io.vtex.com.br/vtex.js/2.10.1/vtex.min.js?v=1.4.1221.1963, line 1: ReferenceError: $ is not defined
+JavaScript error: https://io.vtex.com.br/vtex-id-ui/3.15.34/vtexid-jquery.min.js?v=1.4.1221.1963, line 1: ReferenceError: $ is not defined
+JavaScript error: https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-template-as-modal.min.js?v=1.4.1221.1963, line 1: ReferenceError: $ is not defined
+JavaScript error: https://io.vtex.com.br/portal-plugins/2.9.13/js/portal-sku-selector-with-template.min.js?v=1.4.1221.1963, line 1: ReferenceError: dust is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.cookie.js?v=1.4.1221.1963, line 2: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/jquery.pager.js?v=1.4.1221.1963, line 156: ReferenceError: jQuery is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.tagmanager.helper.js?v=1.4.1221.1963, line 65: ReferenceError: $ is not defined
+JavaScript error: https://www.telhanorte.com.br/, line 147: ReferenceError: $ is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery-typeahead/2.10.6/jquery.typeahead.min.js, line 10: ReferenceError: jQuery is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js, line 4: ReferenceError: jQuery is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js, line 15: TypeError: a is undefined
+JavaScript error: https://www.telhanorte.com.br/arquivos/telhanorte-common-vendor.js?v=636849815766730000, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.telhanorte.com.br/arquivos/telhanorte-common-globals.js?v=636930355444770000, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.telhanorte.com.br/arquivos/telhanorte-desktop-general.js?v=636933538725530000, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.telhanorte.com.br/arquivos/telhanorte-desktop-home.js?v=636934566766030000, line 1: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/Track.js?v=1.4.1221.1963, line 21: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/thickbox.js?v=1.4.1221.1963, line 11: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.viewPart.CallCenterDisclaimer.js?v=1.4.1221.1963, line 5: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.viewPart.ajaxLoader_V2.js?v=1.4.1221.1963, line 1: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/social/vtex-view-part.js?v=1.4.1221.1963, line 5: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.commerce.batchbuy.js?v=1.4.1221.1963, line 13: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.jsevents.js?v=1.4.1221.1963, line 4: ReferenceError: Namespace is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.skuEvents.js?v=1.4.1221.1963, line 4: ReferenceError: Namespace is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.skuEvents.skuDataFetcher.js?v=1.4.1221.1963, line 6: ReferenceError: Vtex is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/jquery.livequery.min.js?v=1.4.1221.1963, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/prettyPhoto/js/jquery.prettyPhoto.js?v=1.4.1221.1963, line 810: ReferenceError: jQuery is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/prettyPhoto/js/lean-prettyPhoto.js?v=1.4.1221.1963, line 1: ReferenceError: $ is not defined
+JavaScript error: https://telhanorte.vteximg.com.br/Scripts/vtex.commerce.Compare.js?v=1.4.1221.1963, line 25: ReferenceError: $ is not defined
+JavaScript error: https://static.chaordicsystems.com/static/loader.js line 1 > eval, line 1: TypeError: o.jQuery is not a function
+JavaScript error: https://www.telhanorte.com.br/ line 2551 > scriptElement, line 1: ReferenceError: $ is not defined
+1558549016641	Marionette	INFO	Stopped listening on port 63926
+1558549026618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.jhXy47uirMJZ"
+1558549027330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558549027331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558549027331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558549029543	Marionette	INFO	Listening on port 49596
+1558549029589	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558549271120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.JgnUNcerNs4Q"
+1558549272784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558549272785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558549272785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558549276578	Marionette	INFO	Listening on port 50789
+1558549276696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558549387745	Marionette	INFO	Stopped listening on port 49596
+1558549390006	Marionette	INFO	Stopped listening on port 50789
+1558549443374	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.YbQgLEbdJOQa"
+1558549445369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558549445369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558549445369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558549449418	Marionette	INFO	Listening on port 51653
+1558549449438	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558554459353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.14pvUOV2ggc4"
+1558554461801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558554461801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558554461801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558554466271	Marionette	INFO	Listening on port 56643
+1558554466361	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558555199598	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.vURwMu0qFbtG"
+1558555203245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558555203246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558555203246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558555208210	Marionette	INFO	Listening on port 60182
+1558555208297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558555752142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.caYiVV592u90"
+1558555755528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558555755529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558555755529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558555759928	Marionette	INFO	Listening on port 62862
+1558555760007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558555781657	Marionette	INFO	Stopped listening on port 62862
+1558555783111	Marionette	INFO	Stopped listening on port 60182
+1558555785445	Marionette	INFO	Stopped listening on port 56643
+1558555787339	Marionette	INFO	Stopped listening on port 51653
+1558556082308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.gpehgTXMDVVA"
+1558556083909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558556083909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558556083909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558556086381	Marionette	INFO	Listening on port 64366
+1558556086405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558556255539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.3paGL9PFuRSF"
+1558556256328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558556256328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558556256328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558556258642	Marionette	INFO	Listening on port 65174
+1558556258697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558556310951	Marionette	INFO	Stopped listening on port 65174
+1558556312996	Marionette	INFO	Stopped listening on port 64366
+1558556609468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.WIc3jdZpfwK1"
+1558556610153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558556610153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558556610154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558556612459	Marionette	INFO	Listening on port 50348
+1558556612539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558556615085	Marionette	INFO	Stopped listening on port 50348
+1558556669965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.7BBVzK0gAVLl"
+1558556670605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558556670606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558556670606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558556672752	Marionette	INFO	Listening on port 50676
+1558556672824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558556675222	Marionette	INFO	Stopped listening on port 50676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1558556896518	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.fXJXacwXdSRv"
+1558556897210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558556897211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558556897211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558556899394	Marionette	INFO	Listening on port 51697
+1558556899490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558556936585	Marionette	INFO	Stopped listening on port 51697
+1558556945968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.FR1SsmBK8soV"
+1558556946691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558556946692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558556946692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558556949138	Marionette	INFO	Listening on port 51982
+1558556949243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558556954053	Marionette	INFO	Stopped listening on port 51982
+1558557015958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.2ayCai7EeHTC"
+1558557016640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557016640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557016640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557018969	Marionette	INFO	Listening on port 52355
+1558557019026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557023640	Marionette	INFO	Stopped listening on port 52355
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1558557050381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.8v1menqaJiUa"
+1558557051097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557051098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557051098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557053408	Marionette	INFO	Listening on port 52574
+1558557053459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557066550	Marionette	INFO	Stopped listening on port 52574
+1558557131474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.8OQb3twb5q0M"
+1558557132184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557132185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557132185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557134531	Marionette	INFO	Listening on port 52991
+1558557134572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557237070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.dyYwDN7eGc2n"
+1558557237839	Marionette	INFO	Stopped listening on port 52991
+1558557238389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557238390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557238390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557240730	Marionette	INFO	Listening on port 53514
+1558557240756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557246349	Marionette	INFO	Stopped listening on port 53514
+1558557290927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.Rnr1OzTEG3Ni"
+1558557291963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557291963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557291963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557294612	Marionette	INFO	Listening on port 53823
+1558557294621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557300221	Marionette	INFO	Stopped listening on port 53823
+1558557342146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.a9WKSwqzauGW"
+1558557342828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557342829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557342829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557345235	Marionette	INFO	Listening on port 54126
+1558557345339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557351177	Marionette	INFO	Stopped listening on port 54126
+1558557428676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.sDoH7QKD9Anz"
+1558557430339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557430340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557430340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557432940	Marionette	INFO	Listening on port 54565
+1558557432965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558557466036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.p1zD5IrfQbAx"
+1558557466904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558557466905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558557466905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558557469347	Marionette	INFO	Listening on port 54821
+1558557469428	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000C,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1558558536636	Marionette	INFO	Stopped listening on port 54821
+1558558540411	Marionette	INFO	Stopped listening on port 54565
+1558558599586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.7mtJhP9EOeiH"
+1558558602297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558558602298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558558602299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558558605890	Marionette	INFO	Listening on port 60113
+1558558605956	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558559661928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.fDVeqCE5rOWa"
+1558559664514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558559664515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558559664515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558559668607	Marionette	INFO	Listening on port 65033
+1558559668696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: http://amanco.com.br/assets/application-265e3a2bd5a0efc4a18d0c92e318f497f9fd3a028fa4ac43c10ca712a741c54c.js, line 16: TypeError: this.loadMoreBtn is undefined
+1558559854811	Marionette	INFO	Stopped listening on port 65033
+1558560212403	Marionette	INFO	Stopped listening on port 60113
+1558622181314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.BFmk5e5FjIeM"
+1558622186910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558622186940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558622186940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558622215687	Marionette	INFO	Listening on port 57469
+1558622215827	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558622402159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.tO8v5NdAwAQB"
+1558622407096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558622407096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558622407096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558622411778	Marionette	INFO	Listening on port 57891
+1558622411846	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558622591963	Marionette	INFO	Stopped listening on port 57891
+1558622593841	Marionette	INFO	Stopped listening on port 57469
+1558622767516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.HbI9GhPLKapR"
+1558622771137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558622771138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558622771138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558622774586	Marionette	INFO	Listening on port 58287
+1558622774696	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558622971506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.GCkFOQmowIjU"
+1558622978011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558622978012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558622978012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558622981466	Marionette	INFO	Listening on port 58650
+1558622981476	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558624447282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/vb/ttlm9pk13972s2m_v732ksk00000gn/T/rust_mozprofile.pvVyBhTTlM8s"
+1558624450797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558624450797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558624450797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558624454581	Marionette	INFO	Listening on port 59131
+1558624454653	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1558624590428	Marionette	INFO	Stopped listening on port 59131
+1558624593031	Marionette	INFO	Stopped listening on port 58650
+1558624596491	Marionette	INFO	Stopped listening on port 58287
