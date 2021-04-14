@@ -2,16 +2,18 @@
 import scrapy
 from selenium import webdriver
 from scrapy.http import HtmlResponse
+import os
 
 
 
 class AmancoSpider(scrapy.Spider):
+    HOME = os.getenv('HOME')
     name = 'Amanco'
     allowed_domains = ['amanco.com.br']
     start_urls = ['http://amanco.com.br/produtos']
 
     def __init__(self):
-        self.driver = webdriver.Firefox(executable_path='/Users/Bruno.cunha/PycharmProjects/untitled/geckodriver')
+        self.driver = webdriver.Firefox(executable_path=f'{HOME}/PycharmProjects/untitled/geckodriver')
 
     def parse(self, response):
             links_categorys = [x for x in response.css('div.row a ::attr(href)').getall() if 'produtos' in x and 'produtos-amanco' not in x]
